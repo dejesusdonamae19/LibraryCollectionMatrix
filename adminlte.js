@@ -983,6 +983,8 @@ throw new Error('AdminLTE requires jQuery')
 /* Tree()
  * ======
  * Converts a nested list into a multilevel
+ 
+ //This is Js
  * tree view menu.
  *
  * @Usage: $('.my-menu').tree(options)
